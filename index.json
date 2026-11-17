@@ -1,0 +1,5 @@
+{
+  "pages": [
+    { "slug": "welcome", "title": "Добро пожаловать", "group": "Начало", "description": "Всё, с чего начинается знакомство с AstroMine.", "file": "pages/welcome.md" }
+  ]
+}
