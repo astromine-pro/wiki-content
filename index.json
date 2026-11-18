@@ -1,5 +1,6 @@
 {
   "pages": [
-    { "slug": "welcome", "title": "Добро пожаловать", "group": "Начало", "description": "Всё, с чего начинается знакомство с AstroMine.", "file": "pages/welcome.md" }
+    { "slug": "welcome", "title": "Добро пожаловать", "group": "Начало", "description": "Всё, с чего начинается знакомство с AstroMine.", "file": "pages/welcome.md" },
+    { "slug": "anarchy", "title": "Анархия", "group": "Режимы", "description": "Информация о режиме Анархия на AstroMine.", "file": "pages/anarchy/index.md" }
   ]
 }
